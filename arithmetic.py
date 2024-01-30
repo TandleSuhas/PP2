@@ -1,0 +1,7 @@
+print("addition of 2 and 5 is :  ",2+5)
+print("subtraction of 10 and 5 is : ",10-5)
+print("multiplication of 2 and 5 is : ",2*5)
+print("division of 10 and 2 is : ",10/2)
+print("floor division of 10 and 3 is : ",10//3)
+print("Remainder of 10 and 2 is : ",10%2)
+print("Power of 2 of 6 is : ",2**6)
