@@ -20,4 +20,4 @@ print(dict1.pop('x'))
 dict2=dict1.copy()
 print(dict2)
 
-print(dict1.clear)
+print(dict1.clear())
