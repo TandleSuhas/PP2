@@ -4,4 +4,4 @@ def fact(n):
   else:
     return n*fact(n-1)
 n=int(input("Enter the number : "))
-print(fact(n))
+print("The Factorial of ",n,"is :",fact(n))
